@@ -85,5 +85,4 @@ Here are a few points that I wish I had done and would love to revisit when time
 ## Acknowledgements
 1. The main dataset was obtained from from [Kaggle](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package), which comes from Australia's Bureau of Meteorology.
 2. In the RF_Optimise notebook, I have also adapted the code and the approach from [this article](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74) written by Will Koehrsen.
-3. Rain image: Photo by <a href="https://unsplash.com/@ak1?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Anna Atkins</a> on <a href="https://unsplash.com/s/photos/rain?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   

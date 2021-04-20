@@ -34,7 +34,6 @@ It is strongly recommened to run the second notebook named 2_RandomForest on GCP
 The following files are included in this repository. 
 1. EDA_InitialModelvF: A Jupyter notebook containing the code for exploratory data analysis and initial experiments with several ML models 
 2. RandomForest: A Jupyter notebook containing the code for data preprocessing and hyperparameters optimisation for Random Forest Classifier
-3. randomforestmodel.sav: The best Random Forest model after fine-tuning - serialised with pickle operation to be used for making new predictions
 
 ## Results
 Among all ML models experimented (e.g. SGD Classifier, Logistic Regression, Random Forest Classifier, AdaBoost Classifier and Gradient Tree Boost Classifier), Random Forest Classifier has the best performance across accuracy, precision, recall and F1 score (0.90 or above) prior to fine-tuning. Such performance is acceptable for a general rain forecast solution. 
